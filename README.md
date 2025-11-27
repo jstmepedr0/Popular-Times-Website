@@ -1,6 +1,6 @@
 # Popular Times sl - Website Imobiliário com ChatBot
 
-Website portfolio para a Popular Times sl, empresa de construção especializada em moradias em Santa Luzia, Cabo Verde.
+Website portfolio para a Popular Times sl, empresa de construção especializada em moradias em Faro, Portugal.
 
 ## 🚀 Características
 
