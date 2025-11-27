@@ -32,12 +32,12 @@ export default function SobrePage() {
             <div className="prose prose-lg text-gray-700 space-y-4">
               <p>
                 A <strong>Popular Times sl</strong> é uma empresa de construção especializada 
-                na criação de moradias de qualidade superior em Santa Luzia, Cabo Verde.
+                na criação de moradias de qualidade superior.
               </p>
               <p>
                 Com um compromisso inabalável com a excelência, combinamos técnicas modernas 
                 de construção com um profundo respeito pelas tradições arquitetónicas locais, 
-                criando espaços que não são apenas casas, mas verdadeiros lares para as famílias cabo-verdianas.
+                criando espaços que não são apenas casas, mas verdadeiros lares para as famílias.
               </p>
               <p>
                 Cada projeto é tratado com atenção personalizada, desde o planeamento inicial 
