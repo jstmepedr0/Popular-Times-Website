@@ -165,7 +165,7 @@ O projeto é compatível com qualquer plataforma que suporte Next.js 14:
 ## 📧 Contacto
 
 **Popular Times sl**
-- Telefone: +34 692 70 72 65
+- Telefone: +351 922 263 315
 - Email: populartimes.sl@gmail.com
 - Instagram: @populartimes.sl
 

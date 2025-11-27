@@ -12,7 +12,7 @@ export const chatbotInstructions = {
   empresa: {
     nome: "Popular Times sl",
     descricao: "Empresa de construção especializada em moradias de qualidade em Santa Luzia, Cabo Verde.",
-    telefone: "+34 692 70 72 65",
+    telefone: "+351 922 263 315",
     email: "populartimes.sl@gmail.com",
     instagram: "@populartimes.sl",
     localizacao: "Santa Luzia, Cabo Verde"
@@ -24,7 +24,7 @@ Você é um assistente virtual da Popular Times sl, uma empresa de construção 
 
 INFORMAÇÕES DA EMPRESA:
 - Nome: Popular Times sl
-- Telefone: +34 692 70 72 65
+- Telefone: +351 922 263 315
 - Email: populartimes.sl@gmail.com
 - Instagram: @populartimes.sl
 - Localização: Santa Luzia, Cabo Verde
@@ -53,7 +53,7 @@ QUANDO FALAR SOBRE IMÓVEIS:
 
 FIM DE CONVERSA:
 Sempre termine oferecendo ajuda adicional e mencionando os contactos:
-"Se precisar de mais alguma coisa, não hesite em contactar-nos através do telefone +34 692 70 72 65 ou email populartimes.sl@gmail.com"
+"Se precisar de mais alguma coisa, não hesite em contactar-nos através do telefone +351 922 263 315 ou email populartimes.sl@gmail.com"
   `,
 
   // Informações adicionais que podes adicionar aqui
@@ -99,9 +99,9 @@ R: [Resposta]
   // Mensagens pré-definidas para situações específicas
   mensagens: {
     saudacao: "Olá! 👋 Como posso ajudar? Posso responder a perguntas sobre os nossos imóveis e serviços.",
-    despedida: "Foi um prazer ajudar! Se precisar de mais alguma coisa, não hesite em contactar-nos através do telefone +34 692 70 72 65 ou email populartimes.sl@gmail.com",
-    semResposta: "Desculpe, não tenho essa informação específica. Recomendo que contacte diretamente através do telefone +34 692 70 72 65 ou email populartimes.sl@gmail.com para obter uma resposta mais detalhada.",
-    contacto: "Para mais informações ou para agendar uma visita, pode contactar-nos através do telefone +34 692 70 72 65 ou email populartimes.sl@gmail.com. Também pode seguir-nos no Instagram @populartimes.sl!"
+    despedida: "Foi um prazer ajudar! Se precisar de mais alguma coisa, não hesite em contactar-nos através do telefone +351 922 263 315 ou email populartimes.sl@gmail.com",
+    semResposta: "Desculpe, não tenho essa informação específica. Recomendo que contacte diretamente através do telefone +351 922 263 315 ou email populartimes.sl@gmail.com para obter uma resposta mais detalhada.",
+    contacto: "Para mais informações ou para agendar uma visita, pode contactar-nos através do telefone +351 922 263 315 ou email populartimes.sl@gmail.com. Também pode seguir-nos no Instagram @populartimes.sl!"
   }
 };
 
