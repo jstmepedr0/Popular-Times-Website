@@ -136,7 +136,7 @@ export const properties: Property[] = [
     slug: "le-parc-apartamento-t2",
     title: "Apartamento T2 no Empreendimento LE PARC – Faro",
     price: 415000,
-    location: "Montenegro, Faro",
+    location: "Faro",
     type: "Apartamento",
     description: "Elegante apartamento T2 integrado no prestigiado empreendimento Le Parc, em Faro. Design minimalista, linhas modernas e acabamentos premium. Distribuição equilibrada que maximiza luz natural e funcionalidade. Inclui sala espaçosa com acesso direto à varanda, cozinha moderna equipada com eletrodomésticos Bosch, 2 quartos confortáveis com roupeiros, 2 casas de banho equipadas e varanda ampla de 20 m². Localização privilegiada no Montenegro, com acesso rápido ao Aeroporto de Faro, Praia de Faro, Fórum Algarve e centro da cidade. Inclui 1 lugar de garagem em piso subterrâneo e 1 arrecadação privada.",
     folderName: "Moradia 4 - Apartamentos Faro",
